@@ -1,4 +1,4 @@
-# Manic_Miner
+# Manic Miner
 An Acorn BBC conversion of Manic Miner for the Acorn Atom
 
 Source written for CC65 compiler
